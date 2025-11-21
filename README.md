@@ -7,3 +7,4 @@ git push
 editing files
 This project was created to learn Git step by step.
 This line was added using VS Code to improve README formatting.
+This line was added from VS Code.
