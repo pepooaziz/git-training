@@ -1,0 +1,28 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore OneDrive junk
+.OneDrive*
+*.lnk
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore backup files
+*.bak
+*.old
